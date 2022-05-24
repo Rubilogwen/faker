@@ -13,7 +13,7 @@ for el in news:
     print(el.text).replace('\n' + ' ' * 36, ''))
 
 print("буквы")
-
+print("ggg")
 
 
 
